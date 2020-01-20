@@ -1,0 +1,6 @@
+asyncio
+discord
+bs4
+logging
+openpxyl
+datetime
