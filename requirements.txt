@@ -1,6 +1,2 @@
-asyncio
-discord
-bs4
-logging
-openpxyl
-datetime
+asyncio.py==3.4.3
+discord==1.2.5
