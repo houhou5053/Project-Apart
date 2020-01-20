@@ -74,4 +74,5 @@ async def my_background_task():
         await asyncio.sleep(5)
 client.loop.create_task(my_background_task())
 
-client.run('NjY2ODA3NzMyODM3NTQ4MDYy.Xh8s_A.OVJMP1UyXTLePZH0mGkvR6br5Tg')
+access_token = voice.environ["BOT_TOKEN"]
+client.run('access_token')
