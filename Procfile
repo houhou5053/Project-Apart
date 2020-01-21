@@ -1,1 +1,2 @@
-worker python 관리원.py
+worker python management.py
+worker: npm start
