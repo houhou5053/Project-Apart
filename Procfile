@@ -1,2 +1,1 @@
-worker python management.py
-worker: npm start
+worker python3 management.py
